@@ -1,0 +1,30 @@
+#header{
+    font-size: 80px;
+    text-align: center;
+}
+#lab_1{
+    margin-top: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 60px;
+    text-align: center;
+    background-color: #FAFAD2
+}
+#lab_1_1{
+    margin-top: 5px;
+    background-color: #AFEEEE;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 35px;
+}
+#description{
+    font-style: italic;
+    border-radius: 5px;
+    font-size: 35px;
+}
+#autor{
+    text-align: center;
+    font-size: 35px;
+}
+
+	
